@@ -1,0 +1,285 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
+
+
+body
+{
+    background-color: #fff;
+}
+
+.cinta-arriba
+{
+    background: linear-gradient( #453b86 ,#140e39);
+    width: 100%;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contenedor-logo-tec
+{
+    width: 15%;
+}
+.logo-tec
+{
+    width: 100%;
+}
+
+.bloque-cinta1
+{
+    margin-left: 2.5%;
+    
+}
+
+.texto-cinta
+{
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+.texto-cinta:hover
+{
+    color: rgb(184, 184, 184);
+}
+
+.contenedor-clases
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+
+}
+
+h1
+{
+    color: #000000;
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.taller-intro
+{
+    text-decoration: none;
+}
+
+.taller-intro:hover
+{
+    color: #000000;
+}
+
+.a
+{
+    color: #000000;
+    text-decoration: underline;
+}
+
+.a:hover
+{
+    color: #fff;
+}
+
+h2
+{   color: #000000;
+    font-size: 19px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 2%;
+    margin-bottom: 4%;
+}
+
+h1:hover
+{
+    color: rgb(255, 255, 255);
+}
+
+h2:hover
+{
+    color: rgb(255, 255, 255);
+}
+
+.intro-taller
+{
+    width: 45%;
+    background: linear-gradient(#ff7074,#9e1317);
+    border: 1px black solid;
+    
+    padding: 1.1%;
+}
+
+.comu-escrita
+{
+    width: 45%;
+    background: linear-gradient( #6b5fbb ,#140e39);
+    border: 1px black solid;
+    
+    padding: 1.1%;
+}
+
+
+.tabla
+{
+    width: 70%;
+    margin: auto;
+    margin-top: 2%;
+}
+
+table
+{
+    border-collapse: collapse;
+    width: 90%;
+    border: 1px rgb(0, 0, 0) solid;
+    border-radius: 7px;
+    margin: auto;
+    padding: 2%;
+}
+
+tr, td
+{
+    border: 1px black solid;
+    padding: 3%;
+}
+
+td
+{
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+}
+
+th
+{
+    border: 1px black solid;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(89, 101, 211);
+    padding: 2%;
+}
+.boton
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+.boton-clase1
+{
+    width:50%;
+    padding: 3%;
+    margin-left: 2%;
+    background: linear-gradient(rgb(100, 100, 255) , rgb(0, 0, 105)) ;
+    margin-top: 5%;
+    font-size: 17px;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    text-align: center;
+    border: 1px white solid;
+    border-radius: 20px;
+}
+
+.boton-clase1:hover
+{
+    border-color: rgb(255, 255, 255);
+    background: linear-gradient(rgb(191, 19, 197) , rgb(58, 3, 70));
+}
+
+
+.cinta-abajo
+{
+    background-color: #c1272d;
+    margin-top: 4%;
+    width: 100%;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icons
+{
+    width: 45%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contenedor-iconos
+{
+    width: 10%;
+    display: inline-block;
+    
+    
+    
+}
+
+.contenedor-iconos:hover
+{
+    width: 14%;
+    transition: 500ms;
+}
+
+.contenedor-iconos2
+{
+    width: 10%;
+    display: inline-block;
+    margin-left: 8%;
+    
+}
+
+.contenedor-iconos2:hover
+{
+    width: 14%;
+    transition: 500ms;
+}
+
+.contenedor-iconos3
+{
+    width: 10%;
+    display: inline-block;
+    margin-left: 8%;
+    
+}
+
+.contenedor-iconos3:hover
+{
+    width: 14%;
+    transition: 500ms;
+}
+
+.contenedor-iconos4
+{
+    width: 10%;
+    display: inline-block;
+    margin-left: 8%;
+}
+
+.contenedor-iconos4:hover
+{
+    width: 14%;
+    transition: 500ms;
+}
+
+img
+{
+    width: 100%;
+}
+
